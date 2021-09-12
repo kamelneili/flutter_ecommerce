@@ -1,4 +1,4 @@
-# laravel_ipa_fluttershop is the backend repository
+# laravel_api_fluttershop is the backend repository
 # In this flutter app i used flutter_bloc as a state management 
 # Photos
 ![1](https://user-images.githubusercontent.com/14231362/132726731-442c2cfe-93e8-4f8a-b8a0-50aaa8187f67.jpg)
